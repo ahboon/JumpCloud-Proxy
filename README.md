@@ -1,6 +1,6 @@
 # JumpCloud-Proxy
 
-Found a JumpCloud Key in your RedTeam engagement or Pentest? Thinking that Jumpcloud documentation is a pain to decipher? Using Burp? No problem!
+Found a JumpCloud Key in your RedTeam engagement or Pentest? Thinking that JumpCloud documentation is a pain to decipher? Using Burp? No problem!
 
 To view what permissions your current API key has, you can use this curl sample:
 ```
